@@ -24,7 +24,7 @@
 🔹 [**TodoList App**](https://github.com/N-Jirawat/TodoList)  
 _แอปจัดการงานที่พัฒนาด้วย Vue (โปรเจกต์ฝึกหัด)_  
 
-🔹 [**Mango Leaf Disease Detection**](https://github.com/N-Jirawat/mango-ai)  
+🔹 [**Mango Leaf Disease Detection**](https://github.com/N-Jirawat/mango-backend.git)  
 _AI สำหรับจำแนกโรคในใบมะม่วง โดยใช้ TensorFlow_  
 
 🔹 [**Portfolio Website**](https://github.com/N-Jirawat/portfolio)  
